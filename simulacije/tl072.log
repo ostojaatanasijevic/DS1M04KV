@@ -1,0 +1,51 @@
+Circuit: * C:\users\ostoja\Desktop\02_Elektronika\diff_sonde\DS1M04KV\simulacije\tl072.asc
+
+WARNING: Less than two connections to node 2.5V.  This node is used by V1.
+WARNING: Less than two connections to node -2.5V.  This node is used by V2.
+WARNING: Less than two connections to node 9V.  This node is used by V4.
+WARNING: Less than two connections to node -9V.  This node is used by V6.
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+Gmin = 5.6588
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+Gmin = 5.48561
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195313
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 5.50166
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+
+Date: Sat Oct 31 20:51:20 2026
+Total elapsed time: 0.113 seconds.
+
+tnom = 27
+temp = 27
+method = Gear
+totiter = 1668
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 163
+fillins = 989
+solver = Normal
+Matrix Compiler1:    7415 opcodes
+Matrix Compiler2:    2070 opcodes

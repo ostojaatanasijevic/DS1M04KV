@@ -1,0 +1,11 @@
+Circuit: * C:\users\ostoja\Desktop\Elektronika\diff_sonde\DS100M08KV2\simulacije\two_opamp\negative_voltage_output.asc
+
+Limiting rise time of source v12 to 2e-006
+Limiting fall time of source v12 to 2e-006
+Limiting rise time of source v11 to 2e-006
+Limiting fall time of source v11 to 2e-006
+WARNING: Less than two connections to node 9V.  This node is used by V4.
+WARNING: Less than two connections to node -9V.  This node is used by V6.
+Direct Newton iteration for .op point succeeded.
+.step vbat=3.2
+Heightened Def Con from 0.000141872 to 0.000141872

@@ -1,0 +1,123 @@
+(footprint "black_safety_4mm_connector"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Cliff single 4mm shrouded banana panel socket, through-hole, horizontal, green, https://www.cliffuk.co.uk/products/testleads/sockets/S16NPC.pdf")
+	(tags "cliff 4mm socket jack banana green")
+	(property "Reference" "REF**"
+		(at 0 -10.25 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "6d7e52c7-b575-47cf-ad04-2ecb12d64445")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "black_safety_4mm_connector"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "2c9df24a-588a-4658-943b-a11e67c5789e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "efe9c411-2e6e-474f-a799-91aeefad95be")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b9b139ad-0a82-4f72-b6a6-49f35464001c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start 13.4 -7)
+		(end 13.4 7)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "560ddb49-551a-4faf-9a3f-cc6ff6c8790b")
+	)
+	(fp_line
+		(start 13.4 -7)
+		(end 13.4 7)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "fab483aa-eb35-4d41-8ce1-5e4a86ad954b")
+	)
+	(fp_rect
+		(start -16.1 -7)
+		(end 16.1 7)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(fill no)
+		(layer "Dwgs.User")
+		(uuid "0a3646c3-f7a5-4c81-a91a-c261d278ab21")
+	)
+	(fp_rect
+		(start 15 7)
+		(end -15 -7)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "2e9001bb-4d27-4c2d-859b-8909091b540b")
+	)
+	(fp_rect
+		(start 15 7)
+		(end -15 -7)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "8e68a6bc-c6a7-4ef3-a04a-83b1b63bfa24")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/DS100M08KV.pretty/Banana Plug 4mm Red CT2238 v1.step"
+		(offset
+			(xyz -8 -65 -12.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 90)
+		)
+	)
+)

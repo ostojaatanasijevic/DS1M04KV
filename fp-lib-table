@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "DS100M08KV") (type "KiCad") (uri "${KIPRJMOD}/DS1M04KV.pretty") (options "") (descr ""))
+	(lib (name "DS20M05V") (type "KiCad") (uri "${KIPRJMOD}/DS1M04KV.pretty") (options "") (descr ""))
+)

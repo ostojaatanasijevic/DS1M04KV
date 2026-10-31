@@ -1,0 +1,234 @@
+Circuit: * C:\users\ostoja\Desktop\Elektronika\diff_sonde\DS100M08KV2\simulacije\charge_pump\complete_charge_pump_electrolytic.asc
+
+WARNING: Less than two connections to node LOSSES.  This node is used by B3.
+WARNING: Less than two connections to node EFFICIENCY.  This node is used by B4.
+WARNING: Less than two connections to node U1:U1:UA:TEST.  This node is used by E:U1:U1:UA:TEST.
+WARNING: Less than two connections to node U1:U1:UA:VTH_DIFF.  This node is used by E:U1:U1:UA:VTHDIFF.
+WARNING: Less than two connections to node U1:U1:UB:TEST.  This node is used by E:U1:U1:UB:TEST.
+WARNING: Less than two connections to node U1:U1:UB:VTH_DIFF.  This node is used by E:U1:U1:UB:VTHDIFF.
+WARNING: Less than two connections to node U2:U1:UA:TEST.  This node is used by E:U2:U1:UA:TEST.
+WARNING: Less than two connections to node U2:U1:UA:VTH_DIFF.  This node is used by E:U2:U1:UA:VTHDIFF.
+WARNING: Less than two connections to node U2:U1:UB:TEST.  This node is used by E:U2:U1:UB:TEST.
+WARNING: Less than two connections to node U2:U1:UB:VTH_DIFF.  This node is used by E:U2:U1:UB:VTHDIFF.
+WARNING: Less than two connections to node U3:U1:UA:TEST.  This node is used by E:U3:U1:UA:TEST.
+WARNING: Less than two connections to node U3:U1:UA:VTH_DIFF.  This node is used by E:U3:U1:UA:VTHDIFF.
+WARNING: Less than two connections to node U3:U1:UB:TEST.  This node is used by E:U3:U1:UB:TEST.
+WARNING: Less than two connections to node U3:U1:UB:VTH_DIFF.  This node is used by E:U3:U1:UB:VTHDIFF.
+WARNING: Less than two connections to node U4:U1:UA:TEST.  This node is used by E:U4:U1:UA:TEST.
+WARNING: Less than two connections to node U4:U1:UA:VTH_DIFF.  This node is used by E:U4:U1:UA:VTHDIFF.
+WARNING: Less than two connections to node U4:U1:UB:TEST.  This node is used by E:U4:U1:UB:TEST.
+WARNING: Less than two connections to node U4:U1:UB:VTH_DIFF.  This node is used by E:U4:U1:UB:VTHDIFF.
+WARNING: Less than two connections to node U5:U1:UA:TEST.  This node is used by E:U5:U1:UA:TEST.
+WARNING: Less than two connections to node U5:U1:UA:VTH_DIFF.  This node is used by E:U5:U1:UA:VTHDIFF.
+WARNING: Less than two connections to node U5:U1:UB:TEST.  This node is used by E:U5:U1:UB:TEST.
+WARNING: Less than two connections to node U5:U1:UB:VTH_DIFF.  This node is used by E:U5:U1:UB:VTHDIFF.
+WARNING: Less than two connections to node U6:U1:UA:TEST.  This node is used by E:U6:U1:UA:TEST.
+WARNING: Less than two connections to node U6:U1:UA:VTH_DIFF.  This node is used by E:U6:U1:UA:VTHDIFF.
+WARNING: Less than two connections to node U6:U1:UB:TEST.  This node is used by E:U6:U1:UB:TEST.
+WARNING: Less than two connections to node U6:U1:UB:VTH_DIFF.  This node is used by E:U6:U1:UB:VTHDIFF.
+Per .tran options, skipping operating point for transient analysis.
+.step esr=4
+Changing Tseed to 1.95313e-010
+Changing Tseed to 1.95312e-012
+Changing Tseed to 1.95312e-009
+Changing Tseed to 1.95313e-013
+Heightened Def Con from 4.45692e-005 to 4.45732e-005
+Heightened Def Con from 6.63508e-005 to 6.63548e-005
+Heightened Def Con from 0.000100687 to 0.000100688
+Heightened Def Con from 0.000123849 to 0.00012385
+Heightened Def Con from 0.0001349 to 0.000134901
+Heightened Def Con from 0.000145581 to 0.000145582
+Heightened Def Con from 0.000156764 to 0.000156768
+Heightened Def Con from 0.000169004 to 0.000169004
+Heightened Def Con from 0.000179186 to 0.000179186
+Heightened Def Con from 0.000189418 to 0.000189418
+Heightened Def Con from 0.00019935 to 0.000199351
+Heightened Def Con from 0.000210267 to 0.000210267
+Heightened Def Con from 0.000234215 to 0.000234215
+Heightened Def Con from 0.000245944 to 0.000245945
+Heightened Def Con from 0.000257227 to 0.000257232
+Heightened Def Con from 0.000267211 to 0.000267215
+Heightened Def Con from 0.000277705 to 0.000277706
+Heightened Def Con from 0.000299615 to 0.000299615
+Heightened Def Con from 0.000299616 to 0.000299616
+Heightened Def Con from 0.000310105 to 0.000310109
+Heightened Def Con from 0.000321726 to 0.000321727
+Heightened Def Con from 0.000332464 to 0.000332464
+Heightened Def Con from 0.000343023 to 0.000343023
+Heightened Def Con from 0.000343023 to 0.000343023
+Heightened Def Con from 0.000352535 to 0.000352536
+Heightened Def Con from 0.000363757 to 0.000363762
+Heightened Def Con from 0.000374849 to 0.000374849
+Heightened Def Con from 0.000385676 to 0.000385677
+Heightened Def Con from 0.000396504 to 0.000396504
+Heightened Def Con from 0.000408345 to 0.000408345
+Heightened Def Con from 0.000420175 to 0.000420178
+Heightened Def Con from 0.000430993 to 0.000430994
+Heightened Def Con from 0.00044165 to 0.00044165
+Heightened Def Con from 0.000451948 to 0.000451948
+Heightened Def Con from 0.000451948 to 0.000451949
+Heightened Def Con from 0.000461289 to 0.000461293
+Heightened Def Con from 0.000472729 to 0.000472734
+Heightened Def Con from 0.000484729 to 0.000484729
+Heightened Def Con from 0.000495986 to 0.000495987
+Heightened Def Con from 0.000518043 to 0.000518043
+Heightened Def Con from 0.000528823 to 0.000528823
+Heightened Def Con from 0.000540142 to 0.000540143
+Heightened Def Con from 0.000564272 to 0.000564272
+Heightened Def Con from 0.000575115 to 0.000575116
+Heightened Def Con from 0.000586706 to 0.000586707
+Heightened Def Con from 0.000598153 to 0.000598157
+Heightened Def Con from 0.000608955 to 0.000608955
+Heightened Def Con from 0.000630547 to 0.000630547
+Heightened Def Con from 0.000630547 to 0.000630548
+Heightened Def Con from 0.000640263 to 0.000640263
+Heightened Def Con from 0.000651683 to 0.000651684
+Heightened Def Con from 0.000673653 to 0.000673653
+Heightened Def Con from 0.000694074 to 0.000694075
+Heightened Def Con from 0.000704725 to 0.000704729
+Heightened Def Con from 0.000715508 to 0.000715508
+Heightened Def Con from 0.000726607 to 0.000726607
+Heightened Def Con from 0.000726607 to 0.000726608
+Heightened Def Con from 0.000738674 to 0.000738674
+Heightened Def Con from 0.0007585 to 0.0007585
+Heightened Def Con from 0.000768251 to 0.000768251
+Heightened Def Con from 0.00077995 to 0.000779955
+Heightened Def Con from 0.000791793 to 0.000791794
+Heightened Def Con from 0.000803957 to 0.000803958
+Heightened Def Con from 0.000814631 to 0.000814631
+Heightened Def Con from 0.000814631 to 0.000814632
+Heightened Def Con from 0.000826613 to 0.000826613
+Heightened Def Con from 0.000826613 to 0.000826613
+Heightened Def Con from 0.000850572 to 0.000850572
+Heightened Def Con from 0.000850572 to 0.000850572
+Heightened Def Con from 0.00087141 to 0.00087141
+Heightened Def Con from 0.00087141 to 0.000871411
+Heightened Def Con from 0.000892589 to 0.000892589
+Heightened Def Con from 0.000914849 to 0.000914854
+Heightened Def Con from 0.000924984 to 0.000924984
+Heightened Def Con from 0.000936064 to 0.000936064
+Heightened Def Con from 0.000936064 to 0.000936065
+Heightened Def Con from 0.000947348 to 0.000947348
+Heightened Def Con from 0.000959299 to 0.0009593
+Heightened Def Con from 0.000981043 to 0.000981044
+Heightened Def Con from 0.000991838 to 0.000991839
+Heightened Def Con from 0.00100369 to 0.0010037
+Heightened Def Con from 0.00101516 to 0.00101517
+Heightened Def Con from 0.00102759 to 0.00102759
+Heightened Def Con from 0.00103924 to 0.00103924
+Heightened Def Con from 0.00103924 to 0.00103924
+Heightened Def Con from 0.00105098 to 0.00105098
+Heightened Def Con from 0.00106208 to 0.00106208
+Heightened Def Con from 0.00107387 to 0.00107387
+Heightened Def Con from 0.00108503 to 0.00108504
+Heightened Def Con from 0.0010956 to 0.0010956
+Heightened Def Con from 0.00110464 to 0.00110464
+Heightened Def Con from 0.00111471 to 0.00111471
+Heightened Def Con from 0.00112468 to 0.00112468
+Heightened Def Con from 0.00113649 to 0.00113649
+Heightened Def Con from 0.00114848 to 0.00114848
+Heightened Def Con from 0.0011604 to 0.00116041
+Heightened Def Con from 0.00116041 to 0.00116041
+Heightened Def Con from 0.00117104 to 0.00117104
+Heightened Def Con from 0.00118307 to 0.00118307
+Heightened Def Con from 0.00119444 to 0.00119444
+Heightened Def Con from 0.0012064 to 0.0012064
+Heightened Def Con from 0.0012064 to 0.0012064
+Heightened Def Con from 0.00121715 to 0.00121715
+Heightened Def Con from 0.00122912 to 0.00122912
+Heightened Def Con from 0.0012398 to 0.0012398
+Heightened Def Con from 0.0012398 to 0.0012398
+Heightened Def Con from 0.00125103 to 0.00125103
+Heightened Def Con from 0.00126224 to 0.00126224
+Heightened Def Con from 0.00127429 to 0.00127429
+Heightened Def Con from 0.00127429 to 0.00127429
+Heightened Def Con from 0.00128532 to 0.00128532
+Heightened Def Con from 0.00129758 to 0.00129758
+Heightened Def Con from 0.00129758 to 0.00129758
+Heightened Def Con from 0.00130873 to 0.00130874
+Heightened Def Con from 0.00132035 to 0.00132035
+Heightened Def Con from 0.0013318 to 0.00133181
+Heightened Def Con from 0.00134382 to 0.00134382
+Heightened Def Con from 0.00135539 to 0.00135539
+Heightened Def Con from 0.00136782 to 0.00136782
+Heightened Def Con from 0.00139089 to 0.00139089
+Heightened Def Con from 0.00140244 to 0.00140244
+Heightened Def Con from 0.00140244 to 0.00140244
+Heightened Def Con from 0.00140245 to 0.00140245
+Heightened Def Con from 0.00141417 to 0.00141417
+Heightened Def Con from 0.00141417 to 0.00141417
+Heightened Def Con from 0.00142503 to 0.00142503
+Heightened Def Con from 0.00143717 to 0.00143717
+Heightened Def Con from 0.00143717 to 0.00143717
+Heightened Def Con from 0.00144891 to 0.00144891
+Heightened Def Con from 0.00146129 to 0.00146129
+Heightened Def Con from 0.00147152 to 0.00147152
+Heightened Def Con from 0.00148246 to 0.00148246
+Heightened Def Con from 0.00149335 to 0.00149335
+Heightened Def Con from 0.00150529 to 0.00150529
+Heightened Def Con from 0.00151642 to 0.00151642
+Heightened Def Con from 0.00152863 to 0.00152863
+Heightened Def Con from 0.00154018 to 0.00154018
+Heightened Def Con from 0.00155249 to 0.00155249
+Heightened Def Con from 0.00156413 to 0.00156413
+Heightened Def Con from 0.00156413 to 0.00156413
+Heightened Def Con from 0.00157631 to 0.00157631
+Heightened Def Con from 0.00157631 to 0.00157631
+Heightened Def Con from 0.00158765 to 0.00158765
+Heightened Def Con from 0.00160011 to 0.00160011
+Heightened Def Con from 0.0016118 to 0.00161181
+Heightened Def Con from 0.00162429 to 0.00162429
+Heightened Def Con from 0.00164711 to 0.00164711
+Heightened Def Con from 0.00165848 to 0.00165848
+Heightened Def Con from 0.00167099 to 0.00167099
+Heightened Def Con from 0.00168195 to 0.00168195
+Heightened Def Con from 0.00168195 to 0.00168195
+Heightened Def Con from 0.00169389 to 0.00169389
+Heightened Def Con from 0.00170585 to 0.00170585
+Heightened Def Con from 0.00170585 to 0.00170585
+Heightened Def Con from 0.0017182 to 0.0017182
+Heightened Def Con from 0.00172865 to 0.00172865
+Heightened Def Con from 0.00174009 to 0.00174009
+Heightened Def Con from 0.00175081 to 0.00175081
+Heightened Def Con from 0.0017624 to 0.0017624
+Heightened Def Con from 0.00177248 to 0.00177248
+Heightened Def Con from 0.00178396 to 0.00178396
+Heightened Def Con from 0.00178396 to 0.00178396
+Heightened Def Con from 0.00179519 to 0.00179519
+Heightened Def Con from 0.00180695 to 0.00180695
+Heightened Def Con from 0.00181874 to 0.00181874
+Heightened Def Con from 0.00183154 to 0.00183154
+Heightened Def Con from 0.00184215 to 0.00184215
+Heightened Def Con from 0.00185357 to 0.00185357
+Heightened Def Con from 0.00185357 to 0.00185357
+Heightened Def Con from 0.00186423 to 0.00186424
+Heightened Def Con from 0.00187597 to 0.00187597
+Heightened Def Con from 0.00188774 to 0.00188774
+Heightened Def Con from 0.00189964 to 0.00189964
+Heightened Def Con from 0.0019214 to 0.0019214
+Heightened Def Con from 0.0019214 to 0.0019214
+Heightened Def Con from 0.00193223 to 0.00193223
+Heightened Def Con from 0.00194376 to 0.00194376
+Heightened Def Con from 0.00195452 to 0.00195452
+Heightened Def Con from 0.00196614 to 0.00196614
+Heightened Def Con from 0.00198894 to 0.00198895
+.step esr=1e+006
+
+Date: Sun Dec 14 14:30:22 2025
+Total elapsed time: 59.830 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 188062
+traniter = 188062
+tranpoints = 42815
+accept = 31465
+rejected = 11510
+matrix size = 770
+fillins = 309
+solver = Normal
+Thread vector: 107.5/16.4[16] 2.3/3.7[1] 30.7/11.9[16] 0.8/4.3[1]  2592/500
+Matrix Compiler1: 32.88 KB object code size  8.5/3.3/[1.5]
+Matrix Compiler2: 49.39 KB object code size  3.7/5.0/[1.8]
+

@@ -1,0 +1,52 @@
+Circuit: * C:\users\ostoja\Desktop\02_Elektronika\diff_sonde\DS20M05V\simulacije\two_opamp\redirect_ratio_analysis_ac.asc
+
+WARNING: Node N014 is floating.
+WARNING: Node N015 is floating.
+WARNING: Node N016 is floating.
+WARNING: Node N073 is floating.
+WARNING: Node N074 is floating.
+WARNING: Node N075 is floating.
+WARNING: Node N023 is floating.
+WARNING: Node N024 is floating.
+WARNING: Node N025 is floating.
+WARNING: Node N078 is floating.
+WARNING: Node N079 is floating.
+WARNING: Node N080 is floating.
+WARNING: Node N082 is floating.
+WARNING: Node N083 is floating.
+WARNING: Node N084 is floating.
+WARNING: Node N099 is floating.
+WARNING: Node N100 is floating.
+WARNING: Node N101 is floating.
+WARNING: Node N007 is floating.
+WARNING: Node N008 is floating.
+WARNING: Node N009 is floating.
+WARNING: Node N068 is floating.
+WARNING: Node N069 is floating.
+WARNING: Node N070 is floating.
+
+WARNING: Less than two connections to node 9V.  This node is used by V4.
+WARNING: Less than two connections to node -9V.  This node is used by V6.
+WARNING: Less than two connections to node 5V.  This node is used by V7.
+WARNING: Less than two connections to node -5V.  This node is used by V8.
+WARNING: Less than two connections to node N035.  This node is used by L1.
+WARNING: Less than two connections to node N038.  This node is used by L3.
+WARNING: Less than two connections to node N005.  This node is used by R16.
+Direct Newton iteration for .op point succeeded.
+
+Date: Sun May 24 19:25:56 2026
+Total elapsed time: 0.039 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 5
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 357
+fillins = 406
+solver = Normal
+Matrix Compiler1:    2174 opcodes
+Matrix Compiler2:    2769 opcodes

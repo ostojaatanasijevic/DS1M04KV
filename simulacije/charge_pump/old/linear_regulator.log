@@ -1,0 +1,25 @@
+Circuit: * C:\users\ostoja\Desktop\02_Elektronika\diff_sonde\3d_print_sonda_koncept\simulacije\charge_pump\old\linear_regulator.asc
+
+Limiting rise time of source v5 to 2e-006
+Limiting fall time of source v5 to 2e-006
+Direct Newton iteration for .op point succeeded.
+.step vbat=10.8
+.step vbat=11
+.step vbat=12.6
+
+Date: Sat Jul 04 13:11:17 2026
+Total elapsed time: 0.447 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 30852
+traniter = 30843
+tranpoints = 15422
+accept = 11871
+rejected = 3551
+matrix size = 47
+fillins = 6
+solver = Normal
+Matrix Compiler1:     259 opcodes  0.8/0.3/[0.3]
+Matrix Compiler2: off

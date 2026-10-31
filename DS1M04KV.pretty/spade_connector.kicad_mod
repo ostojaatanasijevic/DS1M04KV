@@ -1,0 +1,138 @@
+(footprint "spade_connector"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "58432aef-f586-48ac-83f8-e29dfa97cbc7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "spade_connector"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "52fa8a4a-69b7-47d3-8ecb-bd286a4cb677")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5091fc71-34ce-4fad-91a0-c357a091f07b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b90666c5-1ed9-4bfc-96f9-8470e23daccd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_poly
+		(pts
+			(xy -3 -4) (xy -1.5 -4) (xy -1 -3.5) (xy -1 -0.75) (xy 1 -0.75) (xy 1 -3.5) (xy 1.5 -4) (xy 3 -4)
+			(xy 3 1) (xy -3 1)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layers "F.Cu" "F.Mask")
+		(uuid "a521aa99-fa11-4f45-8e7f-d274d7cf5cfe")
+	)
+	(fp_poly
+		(pts
+			(xy -3 -4) (xy -1.5 -4) (xy -1 -3.5) (xy -1 -0.75) (xy 1 -0.75) (xy 1 -3.5) (xy 1.5 -4) (xy 3 -4)
+			(xy 3 1) (xy -3 1)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Paste")
+		(uuid "a7179542-0e57-4e2b-a121-503aa3182e8e")
+	)
+	(fp_rect
+		(start -3 -5)
+		(end 5 2)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "6d2c6dd5-c4d3-4a85-8354-b02e75a38006")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "2d106f6d-df75-4abd-aae1-ab4b51b0e098")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 -0.25)
+		(size 2 2)
+		(drill 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "4db57849-4aae-4822-9384-9f76470f330f")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/3d_print_sonda_koncept.pretty/c-180429-2-k-3d.stp"
+		(offset
+			(xyz -14.2 -1 8)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 90 -0)
+		)
+	)
+	(model "${KIPRJMOD}/3d_print_sonda_koncept.pretty/Banana Plug 4mm Red CT2238 v1.step"
+		(offset
+			(xyz -14.5 65.5 -15.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -90)
+		)
+	)
+)
