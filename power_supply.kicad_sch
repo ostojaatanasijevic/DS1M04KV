@@ -6801,7 +6801,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Battery:BatteryHolder_MPD_BC2AAPC_2xAA"
+		(property "Footprint" "DS100M08KV:Battery_holder_4xAA"
 			(at 73.66 112.776 90)
 			(hide yes)
 			(show_name no)

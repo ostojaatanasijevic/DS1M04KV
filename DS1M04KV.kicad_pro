@@ -63,7 +63,7 @@
           "min_clearance": 0.0,
           "min_island_area": 10.0,
           "min_thickness": 0.25,
-          "pad_connection": 1,
+          "pad_connection": 2,
           "remove_islands": 0,
           "thermal_relief_gap": 0.5,
           "thermal_relief_spoke_width": 0.5
@@ -734,7 +734,7 @@
         "uuid": "e034a6c3-9973-4355-8043-c1e988e27610"
       }
     ],
-    "used_designators": "#PWR24,#PWR36,#PWR38,#PWR40,BT1,#GND19,#GND29,#GND40,C9,C128,R6,R8-9,R13,R20,R24,R27-28,R32,R34,R41,R43-49,R51-54,R113,U1,U8",
+    "used_designators": "RV3,#PWR24,#PWR36,#PWR38,#PWR40,#PWR47,#PWR54,#PWR65-66,BT1,#GND19,#GND29,#GND40,#GND103,C9,C41,C43,C47-50,C55,C64-65,C67-73,C128,R6,R8-9,R13,R20,R24,R27-28,R32,R34,R41,R43-49,R51-54,R113,U1,U8",
     "variants": []
   },
   "sheets": [
